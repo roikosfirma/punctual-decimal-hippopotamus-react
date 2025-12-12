@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/punctual-decimal-hippopotamus-react/static/css/main.db3bffcd.css",
-    "main.js": "/punctual-decimal-hippopotamus-react/static/js/main.7daf6cfd.js",
+    "main.css": "/punctual-decimal-hippopotamus-react/static/css/main.ffcb2711.css",
+    "main.js": "/punctual-decimal-hippopotamus-react/static/js/main.ae6554e0.js",
+    "static/media/logo.png": "/punctual-decimal-hippopotamus-react/static/media/logo.228670c72ce9b282eac3.png",
     "index.html": "/punctual-decimal-hippopotamus-react/index.html",
-    "main.db3bffcd.css.map": "/punctual-decimal-hippopotamus-react/static/css/main.db3bffcd.css.map",
-    "main.7daf6cfd.js.map": "/punctual-decimal-hippopotamus-react/static/js/main.7daf6cfd.js.map"
+    "main.ffcb2711.css.map": "/punctual-decimal-hippopotamus-react/static/css/main.ffcb2711.css.map",
+    "main.ae6554e0.js.map": "/punctual-decimal-hippopotamus-react/static/js/main.ae6554e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.db3bffcd.css",
-    "static/js/main.7daf6cfd.js"
+    "static/css/main.ffcb2711.css",
+    "static/js/main.ae6554e0.js"
   ]
 }

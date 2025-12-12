@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/punctual-decimal-hippopotamus-react/static/css/main.6e89565f.css",
+    "main.css": "/punctual-decimal-hippopotamus-react/static/css/main.b58eeda7.css",
     "main.js": "/punctual-decimal-hippopotamus-react/static/js/main.07490b0f.js",
     "static/media/logo.png": "/punctual-decimal-hippopotamus-react/static/media/logo.2178fee404b474a3de44.png",
     "index.html": "/punctual-decimal-hippopotamus-react/index.html",
-    "main.6e89565f.css.map": "/punctual-decimal-hippopotamus-react/static/css/main.6e89565f.css.map",
+    "main.b58eeda7.css.map": "/punctual-decimal-hippopotamus-react/static/css/main.b58eeda7.css.map",
     "main.07490b0f.js.map": "/punctual-decimal-hippopotamus-react/static/js/main.07490b0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e89565f.css",
+    "static/css/main.b58eeda7.css",
     "static/js/main.07490b0f.js"
   ]
 }
